@@ -1,0 +1,7 @@
+body {
+    text-align: center; /*This makes the game/canvas align in the centre*/
+}
+
+#board {
+    background-color: black; /*Black background colour*/
+}
